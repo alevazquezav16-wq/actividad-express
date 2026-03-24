@@ -1,0 +1,24 @@
+{
+  "name": "actividad-express",
+  "version": "1.0.0",
+  "description": "Proyecto básico con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alevazquezav16-wq/actividad-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alevazquezav16-wq/actividad-express/issues"
+  },
+  "homepage": "https://github.com/alevazquezav16-wq/actividad-express#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
